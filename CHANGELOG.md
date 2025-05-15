@@ -1,12 +1,12 @@
 # CHANGELOG
 
-2025-03-24: Added early Mac OS X releases (10.0 to 10.4). See https://blog.persistent.info/2025/03/infinite-mac-os-x.html for more details.
+2025-03-24: Add early Mac OS X releases (10.0 to 10.4). See https://blog.persistent.info/2025/03/infinite-mac-os-x.html for more details.
 
-2024-11-03: Added a Macintosh Garden software library drawer. See https://blog.persistent.info/2024/11/infinite-mac-macintosh-garden-library.html for more details.
+2024-11-03: Add a Macintosh Garden software library drawer. See https://blog.persistent.info/2024/11/infinite-mac-macintosh-garden-library.html for more details.
 
-2024-03-25: Added all major NeXTSTEP releases. See https://blog.persistent.info/2024/03/infinite-mac-nextstep.html for more details.
+2024-03-25: Add all major NeXTSTEP releases. See https://blog.persistent.info/2024/03/infinite-mac-nextstep.html for more details.
 
-2024-02-19: Added option to use relative mouse movement in Basilisk II and SheepShaver-based machines, which improves compatibility with some games.
+2024-02-19: Add option to use relative mouse movement in Basilisk II and SheepShaver-based machines, which improves compatibility with some games.
 
 2024-01-25: Custom instances now support overriding the current date.
 
@@ -14,13 +14,13 @@
 
 2023-12-09: Custom instances now support custom screen sizes.
 
-2023-09-09: Added the Saved HD as a way to persist data. Its contents can also be imported and exported.
+2023-09-09: Add the Saved HD as a way to persist data. Its contents can also be imported and exported.
 
 2023-08-13: Custom instances now support overriding the RAM size of the emulated machine.
 
-2023-07-20: Added the option to create custom instances with arbitrary system disks and URL-based disk images: https://infinitemac.org/run.
+2023-07-20: Add the option to create custom instances with arbitrary system disks and URL-based disk images: https://infinitemac.org/run.
 
-2023-06-19: Added a CD-ROM library, with a few dozen CDs that can be browsed and mounted, and the ability to mount arbitrary CD-ROM images from archive.org and similar sites.
+2023-06-19: Add a CD-ROM library, with a few dozen CDs that can be browsed and mounted, and the ability to mount arbitrary CD-ROM images from archive.org and similar sites.
 
 2023-06-03: Filtering of system software releases (all vs. just notable ones).
 
@@ -42,7 +42,7 @@
 
 2022-10-30: PowerPC emulation (and thus Mac OS 9) is now available, see https://macos9.app.
 
-2022-10-02: Added setting to allow the control and command keys to be swapped.
+2022-10-02: Add setting to allow the control and command keys to be swapped.
 
 2022-09-17: Audio is less laggy.
 
@@ -56,8 +56,8 @@
 
 2022-07-26: AppleTalk networking support! See https://blog.persistent.info/2022/07/infinite-mac-networking.html for more details.
 
-2022-04-17: Added KanjiTalk 7.5.3 boot image (hosted at kanjitalk7.app).
+2022-04-17: Add KanjiTalk 7.5.3 boot image (hosted at kanjitalk7.app).
 
-2022-04-09: Added support for dragging in and mounting CD-ROM images.
+2022-04-09: Add support for dragging in and mounting CD-ROM images.
 
 2022-03-31: Initial launch! See https://blog.persistent.info/2022/03/blog-post.html.
