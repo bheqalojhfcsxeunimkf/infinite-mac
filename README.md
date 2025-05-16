@@ -164,4 +164,4 @@ cd /pearpc
 make -j8
 ```
 
-Once it has built, use `npm run import-emulator pearpc` from the host to update the files in `src/emulator`.
+Once it has built, use `npm run import-emulator dingusppc` from the host to update the files in `src/emulator`.
